@@ -13,7 +13,7 @@ This tool performs DNS lookups and retrieves IP addresses for given domain names
 - Dart SDK
 
 ## Installation
-1. Clone the repository: git clone https://github.com/muhammadumermemon/dns-lookup-dart.git
+1. Clone the repository: git clone https://github.com/muhammadumerbinfarooq/dns-lookup-dart.git
 2. Navigate to the project directory: `cd dns-lookup-dart`
 3. Run the program: `dart dns_lookup.dart`
 
